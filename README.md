@@ -1,5 +1,7 @@
 # Caesar
 
+![caesar gopher](https://i.ibb.co/qDjyJm7/gopher-caesar.png)
+
 ## Description
 
 This application tries to decode a string encoded with the Caesar Cipher trying all the possible combinations and comparing the decoded words with an English dictionary.
